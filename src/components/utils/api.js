@@ -14,4 +14,5 @@ export const fetchImagesWithQuery = async (searchQuery, pageNumber) => {
   }
 };
 
+// eslint-disable-next-line
 export default { fetchImagesWithQuery };
